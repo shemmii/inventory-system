@@ -1,0 +1,13 @@
+#wrapper {
+    border: 1px solid black;
+    display:inline-block
+}
+#static {
+    width:30px;
+    background: white;
+    color: black;
+}
+input {
+    border: none;
+    outline: 0 none;
+}
